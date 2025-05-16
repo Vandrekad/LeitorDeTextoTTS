@@ -1,0 +1,7 @@
+tkinter
+pytesseract
+pyperclip
+Pillow
+pywin32
+sounddevice
+ibm-watson
